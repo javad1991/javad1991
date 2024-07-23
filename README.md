@@ -1,4 +1,15 @@
-## Hi, I'm Javad Mahmoudi 👋 
+```Python
+class person:
+    def __init__(self,FName,LName,Birthday):
+        self.FName=FName
+        self.LName=LName
+        self.Birthday=Birthday
+    def Introduce(x):
+        print(f"Hello my name is {x.FName} {x.LName} and my year of Birthday is {x.Birthday}")
+
+p=person("Javad", "Mahmoudi", 1991)
+p.Introduce()
+```
 
 > I'm `Python` developer and eager to learn more about ML, DS, DL fields.👨‍💻
 > I used to  code with C++. I khnow about FrontEnd but not very much.
